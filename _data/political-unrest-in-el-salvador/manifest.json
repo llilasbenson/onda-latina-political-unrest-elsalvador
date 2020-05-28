@@ -5,7 +5,7 @@
     "label": { "en": [ "Political Unrest In El Salvador" ] },
     "homepage": [
       {
-        "id": "http://www.laits.utexas.edu/onda_latina/program?sernum=000536364&amp;amp;amp;term=el%20salvador",
+        "id": "http://www.laits.utexas.edu/onda_latina/program?sernum=000536364&amp;amp;amp;amp;term=el%20salvador",
         "type": "Text",
         "label": { "en": [ "Home page for Political Unrest In El Salvador" ] },
         "format": "text/html"
@@ -22,7 +22,7 @@
       {
         "id": "https://llilasbenson.github.io/onda-latina-political-unrest-elsalvador/political-unrest-in-el-salvador/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 1495.0,
+        "duration": 205.0,
         "items": [
           {
             "id": "https://llilasbenson.github.io/onda-latina-political-unrest-elsalvador/political-unrest-in-el-salvador/canvas-1/paintings",
@@ -33,10 +33,10 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://utexas.box.com/shared/static/wiegfvyn9bx1msoi3mr7bl34kc5mbo1n.mp3",
+                  "id": "https://storycorpsorg-staging.s3.amazonaws.com/uploads/EG2019_WillenbringKM_01JF.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                  "duration": 1495.0
+                  "duration": 205.0
                 },
                 "target": "https://llilasbenson.github.io/onda-latina-political-unrest-elsalvador/political-unrest-in-el-salvador/canvas-1/canvas"
               }

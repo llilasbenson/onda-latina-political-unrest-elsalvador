@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/onda-latina-political-unrest-elsalvador/political-unrest-in-el-salvador/canvas-1/canvas/Note_test.json",
+  "type": "AnnotationPage",
+  "label": "Note_test",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://llilasbenson.github.io/onda-latina-political-unrest-elsalvador/political-unrest-in-el-salvador/canvas-1/canvas/Note_test-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Test annotation",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/onda-latina-political-unrest-elsalvador/political-unrest-in-el-salvador/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "317.539212,859.545797"
+        }
+      }
+    }
+  ]
+}

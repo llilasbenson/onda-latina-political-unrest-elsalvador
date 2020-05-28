@@ -5,7 +5,7 @@
     "label": { "en": [ "Political Unrest In El Salvador" ] },
     "homepage": [
       {
-        "id": "http://www.laits.utexas.edu/onda_latina/program?sernum=000536364&amp;amp;amp;amp;term=el%20salvador",
+        "id": "http://www.laits.utexas.edu/onda_latina/program?sernum=000536364&amp;amp;amp;amp;amp;term=el%20salvador",
         "type": "Text",
         "label": { "en": [ "Home page for Political Unrest In El Salvador" ] },
         "format": "text/html"
